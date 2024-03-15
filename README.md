@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @slug01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, I'm Arabindra!
 
-<!---
-slug01/slug01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm passionate about Programming, with a keen interest in Computer Science.
+
+👨‍💻 I enjoy solving problems and building things with code.
+
+🔭 I'm always eager to learn new things and expand my skill set.
+
+💡 I'm actively contributing to open-source projects, and I believe in the power of collaboration and knowledge sharing.
+
+🌱 I'm currently learning python, and I'm excited to apply my knowledge to real-world projects.
+
+💬 Let's connect and collaborate! Feel free to reach out to me for discussions, collaborations, or just to say hi!
+
+📫 You can reach me via arabindradhami11@gmail.com.
