@@ -1,15 +1,36 @@
-👋 Hello, I'm Arabindra!
+👋 Hi, I’m Arabindra Dhami
+📊 Data Analyst | 🤖 Machine Learning Enthusiast | 📈 Aspiring Data Scientist
 
-🚀 I'm passionate about Programming, with a keen interest in Computer Science.
+I’m MSc Computer Science graduate with hands-on experience across data analysis, machine learning, and data science workflows. 
+I enjoy transforming raw data into insights, building predictive models, and solving real-world problems using data-driven approaches.
 
-👨‍💻 I enjoy solving problems and building things with code.
+**🔍 What I Do**
 
-🔭 I'm always eager to learn new things and expand my skill set.
+📊 Data Analysis: Clean, analyze, and visualize data to uncover trends and KPIs
+🤖 Machine Learning: Build and evaluate predictive & classification models
+🧠 Data Science: Apply statistics, ML, and domain understanding to support decision-making
 
-💡 I'm actively contributing to open-source projects, and I believe in the power of collaboration and knowledge sharing.
+**🛠️ Technical Skills**
+**Programming & Querying**
+Python, SQL
 
-🌱 I'm currently learning python, and I'm excited to apply my knowledge to real-world projects.
+**Data Analysis**
+Pandas, NumPy, Excel
+Data Cleaning, EDA, Statistical Analysis
 
-💬 Let's connect and collaborate! Feel free to reach out to me for discussions, collaborations, or just to say hi!
+**Data Visualization**
+Power BI, Matplotlib, Seaborn
 
-📫 You can reach me via arabindradhami11@gmail.com.
+**Machine Learning**
+Supervised Learning: Regression, Classification
+Unsupervised Learning: Clustering
+NLP: Text preprocessing, TF-IDF, Sentiment Analysis
+
+**Tools & Platforms**
+Jupyter Notebook, Git, Power BI
+
+
+**📫 Let’s Connect**
+📧 Email: arabindradhami11@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/arabindra-dhami-a00906216/
